@@ -3,6 +3,8 @@ WifiKlb
 
 WifiKlb is a [wifidog](http://dev.wifidog.org/) fork allowing users to connect automatically if their MAC address have already been granted access.
 
+A similar feature had been asked here: [Per user MAC address whitelisting](http://dev.wifidog.org/ticket/19)
+
 Work in progress, please be patient…
 
 ![WifiKlb](http://keeward.com/Images/wifiklb.png)
